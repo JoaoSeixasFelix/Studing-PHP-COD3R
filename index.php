@@ -41,7 +41,37 @@
                         </li>
                         <li>
                             <a href="exercise.php?dir=basic&file=challenge">
-                            Challenge
+                            Challenger
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="module red">
+                    <h3>Module 02</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=types&file=integer">
+                                Integer Types
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=types&file=float">
+                                Float
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=types&file=arithmetic">
+                                Arithmetic Type
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=types&file=string">
+                                String Type
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercise.php?dir=types&file=challengeprecedence">
+                                Challenge Precedence
                             </a>
                         </li>
                     </ul>
