@@ -65,6 +65,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercise.php?dir=types&file=challengeprecedence">
+                                Challenge Precedence
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercise.php?dir=types&file=string">
                                 String Type
                             </a>
@@ -75,8 +80,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercise.php?dir=types&file=challengeprecedence">
-                                Challenge Precedence
+                            <a href="exercise.php?dir=types&file=boolean">
+                                Boolean
                             </a>
                         </li>
                     </ul>
