@@ -84,6 +84,11 @@
                                 Boolean
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=types&file=conversions">
+                                Conversions
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
