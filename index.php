@@ -70,6 +70,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercise.php?dir=types&file=challengestring">
+                                Challenge String
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercise.php?dir=types&file=challengeprecedence">
                                 Challenge Precedence
                             </a>
