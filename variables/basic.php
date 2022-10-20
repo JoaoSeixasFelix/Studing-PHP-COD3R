@@ -24,3 +24,16 @@ $variable = 10;
 echo '<br>' . $variable;
 
 $variable = "Now I'm a string";
+
+
+echo '<p> Variables Names</p>';
+
+$var    = 'valid';
+$var2   = 'valid';
+$var2   = 'valid';
+$VAR3   = 'valid';
+$_var_4 = 'valid';
+$vâr5   = 'valid'; //It is not recommended to use special characters, as errors may occur depending on the encoding used.
+// $6var   = 'invalid';
+// $%var7  = 'invalid';
+// $var8%  = 'invalid';
