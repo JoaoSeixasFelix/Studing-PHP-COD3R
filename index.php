@@ -91,6 +91,17 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module blue">
+                    <h3>Module 03</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=basic">
+                                Variables
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
