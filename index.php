@@ -99,7 +99,11 @@
                                 Variables
                             </a>
                         </li>
-                        
+                        <li>
+                            <a href="exercise.php?dir=variables&file=equation_challenger">
+                                Equation Challenger
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
