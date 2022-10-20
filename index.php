@@ -104,6 +104,11 @@
                                 Equation Challenger
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=assignments">
+                                Assignments
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
