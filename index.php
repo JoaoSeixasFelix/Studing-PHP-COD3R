@@ -129,6 +129,11 @@
                                 Attribution - Reference vs Value.
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=constants">
+                                Constants
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
