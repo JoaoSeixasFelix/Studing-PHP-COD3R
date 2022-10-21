@@ -109,6 +109,11 @@
                                 Assignments
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=interpolation">
+                                Interpolation
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
