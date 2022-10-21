@@ -124,6 +124,11 @@
                                 Challenge Variables Variables.
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=reference_value">
+                                Attribution - Reference vs Value.
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
