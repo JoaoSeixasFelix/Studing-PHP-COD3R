@@ -119,6 +119,11 @@
                                 Variables Variables.
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=variables&file=challenge_variables_variables">
+                                Challenge Variables Variables.
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
