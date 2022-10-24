@@ -20,4 +20,5 @@ echo '<br>' . NOVISSIMA_TAXA.'!'; //This is an invalid method to access the cons
 
 echo '<br>' . PHP_VERSION;
 echo '<br>' . PHP_INT_MAX;
+echo '<br>' . PHP_INT_MAX;
 echo '<br>' . PHP_INT_MIN;
