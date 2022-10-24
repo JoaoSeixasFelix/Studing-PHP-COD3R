@@ -136,6 +136,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module purple">
+                    <h3>Module 04</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=control&file=if_else">
+                                If/Else
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
