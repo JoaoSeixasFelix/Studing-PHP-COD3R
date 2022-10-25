@@ -144,6 +144,11 @@
                                 If/Else
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=relational_operator">
+                                Relational Operator
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
