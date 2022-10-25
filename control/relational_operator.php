@@ -2,6 +2,12 @@
     Relation Operator
 </div>
 
+<style>
+    p{
+        margin-bottom: -10px;
+    }
+</style>
+
 <?php
 
 var_dump(1 == 1); //true
@@ -40,3 +46,5 @@ if($age<18){
 } else{
     echo"Unexpected age. Insert your age again!";   
 };
+
+echo "<p>Spaceship</p><hr>";
