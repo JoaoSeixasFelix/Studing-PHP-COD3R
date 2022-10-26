@@ -154,6 +154,11 @@
                                 Challenge PI.
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=logical_operators">
+                                Logical Operators.
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
