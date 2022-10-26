@@ -75,12 +75,27 @@ var_dump(false xor true);
 echo "<br> false xor false = ";
 var_dump(false xor false);
 
+
+echo "<p division> Example </p>";
+
+$age = 65;
+$gender = "M";
+
+if ($age >= 60 && $gender === "F"){
+    echo "You can retire because your gender is -> $gender";
+} else if($age >= 65 && $gender === "M"){
+    echo "You can retire because your gender is -> $gender ";
+} else {
+    echo "You'll need to work a little harder";
+}
+
 ?>
 
 <style>
 
-    p {
+    p.division {
         margin-bottom: -10px;
+        font-weight: bold;
     }
 
 </style>
