@@ -149,6 +149,11 @@
                                 Relational Operator
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=challenge_pi">
+                                Challenge PI.
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

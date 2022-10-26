@@ -48,3 +48,4 @@ if($age<18){
 };
 
 echo "<p>Spaceship</p><hr>";
+var_dump(5 <=> 3);
