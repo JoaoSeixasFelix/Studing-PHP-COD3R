@@ -164,6 +164,11 @@
                                 Challenge - Logical Operators
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=ternary_operator">
+                                Ternary
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
