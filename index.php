@@ -159,6 +159,11 @@
                                 Logical Operators.
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=logical_operators_challenge">
+                                Challenge - Logical Operators
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
