@@ -169,6 +169,11 @@
                                 Ternary
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=switch">
+                                Switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
