@@ -189,6 +189,11 @@
                                 Array
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=map">
+                                Array Map
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
