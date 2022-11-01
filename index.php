@@ -194,6 +194,11 @@
                                 Array Map
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=challenge_month">
+                                Challenge - Months
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
