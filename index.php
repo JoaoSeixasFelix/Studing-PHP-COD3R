@@ -181,6 +181,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module orange">
+                    <h3>Module 05</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=array&file=basic">
+                                Array
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
