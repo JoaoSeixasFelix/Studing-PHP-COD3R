@@ -174,6 +174,11 @@
                                 Switch
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=control&file=challenge_switch">
+                                Challenge Switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
