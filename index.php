@@ -204,6 +204,11 @@
                                 Array Operations
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=challenge_sort">
+                                Challenge Sort
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
