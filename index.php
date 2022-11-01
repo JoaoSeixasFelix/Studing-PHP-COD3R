@@ -199,6 +199,11 @@
                                 Challenge - Months
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=array_operations">
+                                Array Operations
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
