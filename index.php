@@ -219,6 +219,11 @@
                                 Array Constants
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=get">
+                                $_GET
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
