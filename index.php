@@ -224,6 +224,11 @@
                                 $_GET
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=post">
+                                $_POST
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
