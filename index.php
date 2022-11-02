@@ -209,6 +209,11 @@
                                 Challenge Sort
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=multidimensional_array">
+                                Multidimensional Array
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
