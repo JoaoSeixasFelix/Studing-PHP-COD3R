@@ -229,6 +229,11 @@
                                 $_POST
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=comparison">
+                                Array Comparison
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
