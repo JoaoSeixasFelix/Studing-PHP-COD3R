@@ -214,6 +214,11 @@
                                 Multidimensional Array
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=array&file=array_constant">
+                                Array Constants
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
