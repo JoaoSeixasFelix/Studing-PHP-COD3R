@@ -236,6 +236,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module dark-green">
+                    <h3>Module 06</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=for">
+                                Loop For
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
