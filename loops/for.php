@@ -18,6 +18,7 @@ for (; $count <= 15;){
 
 } 
 
+//Learning about loops.
 
 $array = [
     'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'
