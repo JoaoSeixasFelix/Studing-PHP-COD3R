@@ -249,6 +249,11 @@
                                 Challenge For
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=for_each">
+                                ForEach
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
