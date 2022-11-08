@@ -244,6 +244,11 @@
                                 Loop For
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=challenge_for">
+                                Challenge For
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
