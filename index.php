@@ -264,6 +264,11 @@
                                 Challenge For/ForEach
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=do_dowhile">
+                            While/DoWhile
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
