@@ -259,6 +259,11 @@
                                 Break/Continue
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=challenge_for_foreach">
+                                Challenge For/ForEach
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
