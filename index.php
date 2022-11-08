@@ -254,6 +254,11 @@
                                 ForEach
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=loops&file=break_continue">
+                                Break/Continue
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
