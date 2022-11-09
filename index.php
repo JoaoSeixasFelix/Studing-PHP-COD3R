@@ -271,6 +271,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module dark-red">
+                    <h3>Module 07</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=scope">
+                            Functions and Scopes
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
