@@ -279,6 +279,11 @@
                             Functions and Scopes
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=args_return">
+                            Return and Args
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>

@@ -31,4 +31,4 @@ function valueChangeReal(){
     echo "<br> During the execution of the function, the variable receives the value: {$variable}";
 };
 
-valueChangeReal();
+var_dump(valueChangeReal());
