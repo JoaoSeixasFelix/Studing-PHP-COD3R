@@ -284,6 +284,11 @@
                             Return and Args
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=challenge_palindrome">
+                            Palimdrome Challenge
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
