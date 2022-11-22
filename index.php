@@ -294,6 +294,11 @@
                             Variable Arguments
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=default_arguments">
+                            Default Arguments
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
