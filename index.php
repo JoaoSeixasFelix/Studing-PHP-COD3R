@@ -289,6 +289,11 @@
                             Palimdrome Challenge
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=variable_arguments">
+                            Variable Arguments
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
