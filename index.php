@@ -299,6 +299,11 @@
                             Default Arguments
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=declaring_types">
+                            Declaring Types
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
