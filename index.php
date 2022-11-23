@@ -304,6 +304,11 @@
                             Declaring Types
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=anonymous_function">
+                            Anonymous Function
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
