@@ -309,6 +309,11 @@
                             Anonymous Function
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=clousure_callable">
+                            Clousure And Callables
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
