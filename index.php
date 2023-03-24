@@ -314,6 +314,11 @@
                             Clousure And Callables
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=recursion">
+                            Recursion
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
