@@ -319,6 +319,11 @@
                             Recursion
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=challenge_recursion">
+                            Challenge Recursion
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
