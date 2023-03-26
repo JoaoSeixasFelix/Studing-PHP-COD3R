@@ -329,6 +329,11 @@
                             Returning a Function
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=map_filter">
+                            Map & Filter
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
