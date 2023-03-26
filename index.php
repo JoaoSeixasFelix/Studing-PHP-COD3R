@@ -324,6 +324,11 @@
                             Challenge Recursion
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=functions&file=returnig_function">
+                            Returning a Function
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
