@@ -336,6 +336,15 @@
                         </li>
                     </ul>
                 </div>
+                <div class="module dark-blue">
+                    <h3>Module 08</h3>
+                    <ul>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
