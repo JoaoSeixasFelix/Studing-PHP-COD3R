@@ -340,10 +340,10 @@
                     <h3>Module 08</h3>
                     <ul>
                         <li>
-                            <a href="exercise.php?dir=object_orientation&file=">
+                            <a href="exercise.php?dir=object_orientation&file=class">
+                            First Class
                             </a>
                         </li>
-                    </ul>
                 </div>
             </nav>
         </div>
