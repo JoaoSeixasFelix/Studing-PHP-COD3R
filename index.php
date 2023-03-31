@@ -344,6 +344,11 @@
                             First Class
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=challenger_ date">
+                            Challenger Date
+                            </a>
+                        </li>
                 </div>
             </nav>
         </div>
