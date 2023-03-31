@@ -349,6 +349,11 @@
                             Challenger Date
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=constructors_destructors">
+                            Constructors and Destructors
+                            </a>
+                        </li>
                 </div>
             </nav>
         </div>
