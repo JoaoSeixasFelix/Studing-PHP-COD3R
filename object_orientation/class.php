@@ -14,4 +14,5 @@ class Cliente {
 }
 
 $c1 = new Cliente();
-echo $c1->toPresent();
+$c1->name = "Livinho Xavier";
+echo $c1->toPresent()       ;

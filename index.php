@@ -354,6 +354,11 @@
                             Constructors and Destructors
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=inheritance">
+                            Inheritance 
+                            </a>
+                        </li>
                 </div>
             </nav>
         </div>
