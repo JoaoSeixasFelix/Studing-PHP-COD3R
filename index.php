@@ -359,6 +359,11 @@
                             Inheritance 
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=visibility">
+                            Access Modifiers 
+                            </a>
+                        </li>
                 </div>
             </nav>
         </div>
