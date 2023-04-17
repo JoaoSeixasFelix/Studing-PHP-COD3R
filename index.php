@@ -364,6 +364,12 @@
                             Access Modifiers 
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=static">
+                            Static Member 
+                            </a>
+                        </li>
+                </div>
                 </div>
             </nav>
         </div>
