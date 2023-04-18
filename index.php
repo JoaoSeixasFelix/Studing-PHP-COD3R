@@ -369,6 +369,11 @@
                             Static Member 
                             </a>
                         </li>
+                        <li>
+                            <a href="exercise.php?dir=object_orientation&file=interface">
+                            Interface
+                            </a>
+                        </li>
                 </div>
                 </div>
             </nav>
